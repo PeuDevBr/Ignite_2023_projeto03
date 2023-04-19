@@ -1,28 +1,68 @@
 {
-    "transactions": [
-        {
-            "id": 1,
-            "description": "Desenvolvimento de site",
-            "type": "income",
-            "category": "Venda",
-            "price": 14000,
-            "createdAt": "2023-04-15T17:12:34.297Z"
-        },
-        {
-            "id": 2,
-            "description": "Hamburguer",
-            "type": "outcome",
-            "category": "Alimentação",
-            "price": 50,
-            "createdAt": "2023-04-15T17:12:30.297Z"
-        },
-        {
-            "id": 3,
-            "description": "Rocketseat",
-            "type": "outcome",
-            "category": "Educação",
-            "price": 1950,
-            "createdAt": "2023-04-25T18:12:30.297Z"
-        }
-    ]
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2023-04-15T17:12:34.297Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2023-04-15T17:12:30.297Z"
+    },
+    {
+      "id": 3,
+      "description": "Rocketseat",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 1950,
+      "createdAt": "2023-04-17T18:12:30.297Z"
+    },
+    {
+      "description": "Barzinho",
+      "category": "Diversão",
+      "price": 250,
+      "type": "outcome",
+      "createdAt": "2023-04-18T23:54:10.254Z",
+      "id": 4
+    },
+    {
+      "description": "Pão",
+      "category": "Alimentação",
+      "price": 20,
+      "type": "outcome",
+      "createdAt": "2023-04-18T23:58:01.232Z",
+      "id": 5
+    },
+    {
+      "description": "Desenvolvimento de app",
+      "category": "Trabalho",
+      "price": 5000,
+      "type": "income",
+      "createdAt": "2023-04-18T23:58:53.160Z",
+      "id": 6
+    },
+    {
+      "description": "Roupas",
+      "category": "Vestimenta",
+      "price": 500,
+      "type": "outcome",
+      "createdAt": "2023-04-19T00:39:47.429Z",
+      "id": 7
+    },
+    {
+      "description": "Notebook",
+      "category": "Equipamentos",
+      "price": 5000,
+      "type": "outcome",
+      "createdAt": "2023-04-19T22:56:35.872Z",
+      "id": 8
+    }
+  ]
 }
